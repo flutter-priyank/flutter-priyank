@@ -25,13 +25,13 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=NAIKPRIYANK)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=flutter-priyank)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NAIKPRIYANK&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=NAIKPRIYANK&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=flutter-priyank&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=flutter-priyank&theme=tokyonight&hide_border=true)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NAIKPRIYANK&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=flutter-priyank&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## Connect with me:
 <p align="left">
@@ -44,6 +44,6 @@
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=NAIKPRIYANK">
+    <img src="https://komarev.com/ghpvc/?username=flutter-priyank">
 </a>
-<a href="https://github.com/NAIKPRIYANK?tab=followers"><img src="https://img.shields.io/github/followers/NAIKPRIYANK?label=Followers&style=social" alt="GitHub Badge"></a> 
+<a href="https://github.com/flutter-priyank?tab=followers"><img src="https://img.shields.io/github/followers/flutter-priyank?label=Followers&style=social" alt="GitHub Badge"></a> 
