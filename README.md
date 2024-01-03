@@ -2,7 +2,7 @@
 <img align = "center" alt="Coding" width="1500" src="https://www.freepik.com/free-vector/future-work-concept-illustration_26459420.htm#query=cartoon%20developer&position=23&from_view=keyword&track=ais&uuid=8ab29920-0052-475f-ae20-0cd42e37f930">
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm PRIYANK</h1>
-<h3 align="center">I'm a passionate JAVA DEVELOPER from India.</h3>
+<h3 align="center">I'm a passionate FLUTTER DEVELOPER from India.</h3>
 
 
 ## 🙋‍♂️ About Me
